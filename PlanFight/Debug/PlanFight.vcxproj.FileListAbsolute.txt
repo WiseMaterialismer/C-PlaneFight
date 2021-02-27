@@ -1,0 +1,2 @@
+F:\C++\planFight\PlanFight\Debug\PlanFight.exe
+F:\C++\planFight\PlanFight\Debug\PlanFight.pdb
